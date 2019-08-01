@@ -1,1 +1,1 @@
-# Your code here
+def meal_choice(veg1="salad", veg2="cauliflower", protein="meat")
